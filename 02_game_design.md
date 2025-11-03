@@ -16,7 +16,7 @@
 - Hráč získává bod za každou překonanou překážku
 - Zobrazení skóre v rohu obrazovky
 
-## UI a další prvky
+## Ui a další prvky
 - Start menu
 - Tlačítko restartu po skončení hry
 - Možnost nastavení hlasitosti nebo zvuků
